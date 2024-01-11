@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340503764276",
+    "project_id": "belajar-notif1",
+    "storage_bucket": "belajar-notif1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340503764276:android:709895d3eaba2a293c5961",
+        "android_client_info": {
+          "package_name": "com.belajarnotif1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeeqU_nyeTRsUxYlp39_9pzCFQuOQPeFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
